@@ -17,6 +17,7 @@ members = [
     "contracts/soroswap-swap-adapter",
     "tests/integration-tests",
     "tests/unit-tests",
+    "tests/c4",
 ]
 exclude = [
     "soroswap-core",
