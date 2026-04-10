@@ -7,8 +7,8 @@
   - Judge awards: $9,500 in USDC
   - Scout awards: $500 USDC
 - [Read our guidelines for more details](https://docs.code4rena.com/competitions)
-- Starts April 10, 2026 20:00 UTC
-- Ends May 20, 2026 20:00 UTC
+- Starts April 13, 2026 20:00 UTC
+- Ends May 25, 2026 20:00 UTC
 
 ### ❗ Important notes for wardens
 
